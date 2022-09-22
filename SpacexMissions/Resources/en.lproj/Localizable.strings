@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  SpacexMissions
+
+  Created by Ameer Witwit on 9/22/22.
+
+*/
+
+"generalError" = "Something went wrong";
+"networkError" = "There's a problem with the network";
+"company" = "Company";
+"launches" = "Launches";
+"companyInfo" = "%@ was founded by %@ in %@. It has now %@ employees, %@ launch sites, and is valued at USD %@";
+"mission" = "Mission";
+"dateTime" = "Date/time";
+"rocket" = "Rocket";
+"daysFromNow" = "Days from now";
+"daysSinceLaunch" = "Days since launch";
+"at" = "at";
+"wikipedia" = "Wikipedia";
+"article" = "Article";
+"video" = "Video";
+"cancel" = "Cancel";
+"from" = "From:";
+"to" = "To:";
+"done" = "Done";
+"successfulLaunches" = "Only successful launches";
+"order" = "Order";
+"asc" = "Asc.";
+"dsc" = "Des.";
